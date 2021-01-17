@@ -107,3 +107,4 @@ INSERT INTO `student` VALUES ('2020001', '001', '男', '001', '001@gmail.com', '
 INSERT INTO `student` VALUES ('2020002', '002', '女', '002', '002@qq.com', '生物科学学院', 0);
 
 SET FOREIGN_KEY_CHECKS = 1;
+ 
